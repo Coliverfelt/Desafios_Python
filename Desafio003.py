@@ -12,6 +12,6 @@ cores = {'limpa':'\033[m',
          'brancoelilas':'\033[0;30;45m',
          'brancoeciano':'\033[0;30;46m',
          'brancoecinza':'\033[0;30;47m'}
-print('A soma entre {}{}{} e {}{}{} vale {}{}{}'.format(cores['peb'], n1, cores['limpa'], cores['brancoevermelho'], 
-                                                                      n2, cores['limpa'], cores['brancoeciano'], 
+print('A soma entre {}{}{} e {}{}{} vale {}{}{}'.format(cores['peb'], n1, cores['limpa'], cores['brancoevermelho'],
+                                                                      n2, cores['limpa'], cores['brancoeciano'],
                                                                       n1+n2, cores['limpa']))

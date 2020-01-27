@@ -1,5 +1,5 @@
-# Exercício Python 004: Faça um programa que leia algo pelo teclado 
-#                       e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
+# Exercício Python 004: Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo
+# e todas as informações possíveis sobre ele.
 
 cores = {'limpa': '\033[m',
          'negativo': '\033[7m',
